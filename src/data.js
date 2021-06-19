@@ -8,7 +8,7 @@ const data = [
     },
     {
         id: 2,
-        name: 'Bineeth Gutti',
+        name: 'joi',
         age: 24,
         image:
             'https://res.cloudinary.com/diqqf3eq2/image/upload/v1595959131/person-3_rxtqvi.jpg',

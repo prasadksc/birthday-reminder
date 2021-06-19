@@ -9,7 +9,6 @@ class App extends Component {
     people: data
   }
 
-
   render() {
     return (<main>
       <section className="container">
